@@ -1,0 +1,1 @@
+"""Security finding database model."""
